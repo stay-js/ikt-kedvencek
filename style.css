@@ -1,0 +1,10 @@
+.landing-page-link {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
+.landing-page-img {
+  display: block;
+  margin-bottom: 1rem;
+}
