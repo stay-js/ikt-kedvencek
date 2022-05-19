@@ -18,6 +18,14 @@
   background-size: 100% 2px;
 }
 
+.left {
+  animation: translateXBounceLeft 500ms ease;
+}
+
+.right {
+  animation: translateXBounceRight 500ms ease;
+}
+
 @media (max-width: 768px) {
   .csapatok-img {
     order: 1;
