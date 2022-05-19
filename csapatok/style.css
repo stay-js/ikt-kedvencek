@@ -26,6 +26,11 @@
   animation: translateXBounceRight 500ms ease;
 }
 
+.csapatok-img {
+  display: block;
+  margin-inline: auto;
+}
+
 @media (max-width: 768px) {
   .csapatok-img {
     order: 1;
