@@ -13,12 +13,11 @@ html {
 }
 
 ::selection {
-  background-color: red;
-  color: white;
+  background-color: #f00;
+  color: #fff;
 }
 
 /* global styles */
-
 .title {
   padding: 4rem;
   text-align: center;
