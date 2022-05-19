@@ -17,3 +17,14 @@
   color: red;
   background-size: 100% 2px;
 }
+
+@media (max-width: 768px) {
+  .csapatok-img {
+    order: 1;
+    margin-bottom: 1rem;
+  }
+
+  .csapatok-content {
+    order: 2;
+  }
+}
