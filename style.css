@@ -8,3 +8,7 @@
   display: block;
   margin-bottom: 1rem;
 }
+
+.landing-page .col-md-4 {
+  animation: growOut 500ms ease;
+}

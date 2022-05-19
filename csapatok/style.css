@@ -18,11 +18,11 @@
   background-size: 100% 2px;
 }
 
-.left {
+.csapatok .left {
   animation: translateXBounceLeft 500ms ease;
 }
 
-.right {
+.csapatok .right {
   animation: translateXBounceRight 500ms ease;
 }
 
